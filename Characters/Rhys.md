@@ -5,11 +5,13 @@ hráč: Já
 celé jméno: Rhys Tatwin
 příchod: 
 gender: Muž
-race: 
-class: 
-práce: 
-lokace: 
-items: 
+race: High Elf
+class:
+  - Artificer
+práce: Tkadlec
+lokace: Ostrov
+items:
+  - "[[Bambitka Poznání]]"
 desc:
 ---
 # [[Rhys]]
