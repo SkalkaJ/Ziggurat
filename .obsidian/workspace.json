@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "046c8b9cd72ab710",
+    "type": "split",
+    "children": [
+      {
+        "id": "c53a553317aa0472",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31c613510afd90df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Rhys.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rhys"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "841a9f53eeb21748",
+    "type": "split",
+    "children": [
+      {
+        "id": "256253b80ce82ae7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d02fe1af44135e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b10fe072474975fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "13d6a30d0a12574c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "940a510db630be14",
+    "type": "split",
+    "children": [
+      {
+        "id": "a78fd0fac6e95f3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f1c75a380cdb7bf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Characters/Rhys.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Rhys"
+            }
+          },
+          {
+            "id": "f3a12c3b75cd986f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "5762ed856f13274f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "83131acd98cc8fa2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "a2d7c940b8df4ff3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ea9250a056b47cb1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "templater-obsidian:Templater": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "3d02fe1af44135e9",
+  "lastOpenFiles": [
+    "Templates/{{title}} - Characters.md",
+    "Characters/Rhys.md",
+    "zz Writing Cheatsheet.md",
+    "Zápisy.md",
+    "Stuff Maker.md",
+    "Postavy.md",
+    "Zápisy/There are things in the shadows! IV..md",
+    "Zápisy",
+    "World",
+    "Templates/{{title}} - Zápis.md",
+    "Templates/{{title}} - NPCs.md",
+    "Templates/{{title}} - Lokace.md",
+    "Templates/{{title}} - Items.md",
+    "Templates/{{title}} - Lidi.md",
+    "Templates",
+    "Scripts",
+    "NPCs",
+    "Monsters",
+    "Maps",
+    "Lokace",
+    "Lidi/Xerius.md",
+    "Lidi",
+    "Items/Bambitka Poznání.md",
+    "Items",
+    "Characters/Navad.md",
+    "assets/Redwill/Pasted image 20250501194413.png",
+    "assets/Redwill/Pasted image 20250501194430.png",
+    "assets/Redwill/Pasted image 20250501194437.png",
+    "assets/Redwill/Pasted image 20250501194423.png",
+    "assets/Redwill/Pasted image 20250501193606.png",
+    "assets/Redwill/Pasted image 20250501193546.png",
+    "assets/Redwill/Pasted image 20250501193423.png",
+    "assets/Redwill/Pasted image 20250501193539.png",
+    "assets/Pasted image 20250501200924.png",
+    "assets/Pasted image 20250501200838.png"
+  ]
+}

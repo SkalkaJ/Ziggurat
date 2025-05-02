@@ -1,0 +1,23 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "date": "date",
+    "datum": "date",
+    "počet postav": "number",
+    "postavy": "multitext",
+    "příchod": "date",
+    "class": "multitext",
+    "desc": "multitext",
+    "NPCs": "multitext",
+    "Monstra": "multitext",
+    "jméno": "multitext",
+    "DM": "text",
+    "type": "multitext",
+    "vlastník": "multitext",
+    "magical": "checkbox",
+    "attunement": "checkbox",
+    "items": "multitext"
+  }
+}
