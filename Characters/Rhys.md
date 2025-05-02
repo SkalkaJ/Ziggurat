@@ -4,7 +4,7 @@ type:
 hráč: Já
 celé jméno: Rhys Tatwin
 příchod: 
-gender: 
+gender: Muž
 race: 
 class: 
 práce: 
