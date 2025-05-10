@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiPaintbrush",
       "LiBox",
       "LiNotebookPen",
       "LiGlobe2",
-      "LiList",
-      "LiTrash"
+      "LiList"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -45,5 +45,6 @@
   "World": "LiGlobe2",
   "Zápisy": "LiNotebookPen",
   "Characters": "LiDrama",
-  "Items": "LiBox"
+  "Items": "LiBox",
+  "Artíky": "LiPaintbrush"
 }
