@@ -198,12 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Characters/Ballagurio.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Ballagurio"
             }
           },
           {
@@ -275,10 +276,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3d02fe1af44135e9",
+  "active": "ea9250a056b47cb1",
   "lastOpenFiles": [
-    "Characters/Rhys.md",
+    "zz notes.md",
     "Characters/Ballagurio.md",
+    "Characters/Rhys.md",
     "Zápisy/Severní přístaviště město Soluna.md",
     "Pasted image 20250509225034.png",
     "Artíky/Drawing 2025-05-09 18.33.01.excalidraw.md",
@@ -287,7 +289,6 @@
     "NPCs/Untitled",
     "Items/Magická kniha Zigguratu.md",
     "Artíky/Untitled.md",
-    "zz notes.md",
     "zz Writing Cheatsheet.md",
     "assets/Pasted image 20250501200924.png",
     "assets/Pasted image 20250501200838.png",
