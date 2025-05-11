@@ -44,3 +44,4 @@ sloupky:
 Démon z 8. vrstvy, byl vyslán naplnit smlouvu svázanou jeho pánem Mefistofelem s královnou.
 Jeho úkolem bylo ochraňovat princeznu, měl jí zajistit klidný život, než jí někdo zachrání.
 Dá se přivolat, když člověk v Teriadaru (možná i jinde) 3x vysloví jeho jméno.
+Královna 

@@ -12,7 +12,16 @@ lokace:
 items: 
 desc:
 ---
-# [[{{title}}]]
+# [[Ballagurio]]
+
+## XP & Money
+1200/2700xp
+65gp
+Inspirace: 0/2
+
+update: 10.5.2025
+
++500xp [5.5](https://discord.com/channels/1038480306593861692/1038553687016095875/1370821445730701414)
 
 ## Summary
 
@@ -26,7 +35,6 @@ desc:
 
 *Runy portálového kruhu se rozzáří a hladina otevírajícího se portálu začne praskat jiskrami bleskové namodralé energie. Blesky se postupně začnou zvětšovat a celý portál začne pulzovat, chvíli se zdá, že se jev zhroutí zpátky do sebe, jen aby se vzápětí znovu s trhnutím rozšířil. Je zjevné, že to, co drží portál otevření je od stability velmi vzdálené.*
 
-*Z vířícího chaosu se s dalším hlasitým zapraskáním a sprškou jisker, vynoří ruka. Štíhlá, bledá ruka s dlouhými prsty. Ruka se tázavě, téměř zoufale, pohybuje ve vzduchu, jako by hledala oporu. V ten moment se taky z portálovky rozezní alarm.*
-
+*Z vířícího chaosu se s dalším hlasitým zapraskáním a sprškou jisker, vynoří ruka. Štíhlá, bledá ruka s dlouhými prsty. Ruka se tázavě, téměř zoufale, pohybuje ve vzduchu, jako by hledala oporu. V ten moment se také z portálovky rozezní alarm.*
 *V okamžiku, kdy se ruka plně vysune, se celý portál s trhavým, mechanickým skřípnutím zastaví. Vír energie zamrzne v půli pohybu, nestabilní trhlina v realitě ztuhne, stále lemovaná tančícími blesky, které nervózně přeskakují mezi jejím okrajem a vysunutou paží. Z portálu se ozve tlumené, frustrované zamručení a pak ticho, přerušované jen tichým praskáním statické elektřiny.*
 
