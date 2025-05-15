@@ -8,49 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "31c613510afd90df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zápisy/Severní přístaviště město Soluna.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Severní přístaviště město Soluna"
-            }
-          },
-          {
-            "id": "deb1f8acf64c597a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zápisy/Severní přístaviště město Soluna.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Severní přístaviště město Soluna"
-            }
-          },
-          {
             "id": "9447e5c15b90d76f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Rhys.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rhys"
-            }
-          },
-          {
-            "id": "c023bf570079e0bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,21 +22,20 @@
             }
           },
           {
-            "id": "308db07df71accdf",
+            "id": "893e747e969e00cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zápisy/Severní přístaviště město Soluna.md",
+                "file": "Characters/Rhys.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Severní přístaviště město Soluna"
+              "title": "Rhys"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Ballagurio.md",
+                "file": "Maps/Dimenze.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ballagurio"
+              "title": "Outline of Dimenze"
             }
           },
           {
@@ -278,11 +235,29 @@
   },
   "active": "ea9250a056b47cb1",
   "lastOpenFiles": [
-    "zz notes.md",
-    "Characters/Ballagurio.md",
     "Characters/Rhys.md",
+    "Characters/Ballagurio.md",
+    "Spellbook Checklist.md",
     "Zápisy/Severní přístaviště město Soluna.md",
+    "Maps/Svět.md",
+    "Maps/Poloostrov Miris.md",
+    "Maps/Severní pustiny.md",
+    "Maps/Dimenze.md",
+    "Postavy.md",
+    "assets/dimenze.png",
+    "Pasted image 20250511170211.png",
+    "assets/Miris.png",
+    "Pasted image 20250511165840.png",
     "Pasted image 20250509225034.png",
+    "Pasted image 20250511165430.png",
+    "assets/Severni_pustiny.png",
+    "assets/svět.png",
+    "Characters/Zorathir.md",
+    "Templates/{{title}} - Characters.md",
+    "Characters/Navad.md",
+    "Templates/{{title}} - Lokace.md",
+    "Templates/{{title}} - Items.md",
+    "zz notes.md",
     "Artíky/Drawing 2025-05-09 18.33.01.excalidraw.md",
     "Artíky/Drawing 2025-05-05 13.10.18.excalidraw.md",
     "NPCs/Krauli.md",
@@ -292,37 +267,19 @@
     "zz Writing Cheatsheet.md",
     "assets/Pasted image 20250501200924.png",
     "assets/Pasted image 20250501200838.png",
-    "Characters/Zorathir.md",
     "Zápisy/Strom Hojnosti II..md",
     "{{title}}.md",
     "Excalidraw",
     "Artíky",
     "Items/Bambitka Poznání.md",
-    "Templates/{{title}} - Characters.md",
     "Zápisy.md",
     "Stuff Maker.md",
-    "Postavy.md",
-    "Zápisy/There are things in the shadows! IV..md",
     "Zápisy",
     "World",
-    "Templates/{{title}} - Zápis.md",
-    "Templates/{{title}} - NPCs.md",
-    "Templates/{{title}} - Lokace.md",
-    "Templates/{{title}} - Items.md",
-    "Templates/{{title}} - Lidi.md",
     "Templates",
     "Scripts",
     "NPCs",
     "Monsters",
-    "Maps",
-    "Lidi/Xerius.md",
-    "Characters/Navad.md",
-    "assets/Redwill/Pasted image 20250501194413.png",
-    "assets/Redwill/Pasted image 20250501194430.png",
-    "assets/Redwill/Pasted image 20250501194437.png",
-    "assets/Redwill/Pasted image 20250501194423.png",
-    "assets/Redwill/Pasted image 20250501193606.png",
-    "assets/Redwill/Pasted image 20250501193546.png",
-    "assets/Redwill/Pasted image 20250501193423.png"
+    "Maps"
   ]
 }

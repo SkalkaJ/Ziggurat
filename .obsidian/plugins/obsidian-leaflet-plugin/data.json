@@ -1,5 +1,147 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "severní_pustiny",
+      "lastAccessed": 1747044487464,
+      "markers": [
+        {
+          "id": "ID_4be9ca791a1b",
+          "type": "default",
+          "loc": [
+            -9.51762965341229,
+            11.755650237226353
+          ],
+          "layer": "severni_pustiny.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Maps/Severní pustiny.md"
+      ]
+    },
+    {
+      "id": "miris",
+      "lastAccessed": 1747044488953,
+      "markers": [
+        {
+          "id": "ID_5899bbc92968",
+          "type": "default",
+          "loc": [
+            -15.28125,
+            4.59375
+          ],
+          "link": "Redwill",
+          "layer": "miris.png",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2030169860047314,
+            0.900456291667244
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f82acbd93bd9",
+          "type": "default",
+          "loc": [
+            -7.59375,
+            13.90625
+          ],
+          "layer": "miris.png",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6145752297422141,
+            0.4474660099696121
+          ],
+          "description": "Džungle života",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e9a9083839fb",
+          "type": "default",
+          "loc": [
+            -4.84375,
+            13.90625
+          ],
+          "layer": "miris.png",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6145752297422141,
+            0.2854207059476949
+          ],
+          "description": "Močály beznaděje",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Maps/Poloostrov Miris.md"
+      ]
+    },
+    {
+      "id": "svět",
+      "lastAccessed": 1747044493957,
+      "markers": [
+        {
+          "id": "ID_6b1b4b68796b",
+          "type": "default",
+          "loc": [
+            -6.8279998558326005,
+            7.800271679964103
+          ],
+          "link": "Poloostrov Miris",
+          "layer": "sv%C4%9Bt.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Poloostrov Miris",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b85a9acb3928",
+          "type": "default",
+          "loc": [
+            -2.972921357132211,
+            11.42419393354516
+          ],
+          "link": "Severní pustiny",
+          "layer": "sv%C4%9Bt.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Severní Pustiny",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Maps/Svět.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",

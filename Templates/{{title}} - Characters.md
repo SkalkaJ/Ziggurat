@@ -10,6 +10,7 @@ class:
 práce: 
 lokace: 
 items: 
+jazyky: Common
 desc:
 ---
 # [[{{title}}]]
